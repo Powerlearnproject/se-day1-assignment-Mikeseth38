@@ -84,10 +84,10 @@ Updating for security vulnerabilities.
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate. 
 Waterfall Methodology:
 Description:
-A linear, sequential approach where each phase of the SDLC (requirements, design, implementation, testing, deployment, maintenance) is completed before the next one begins
+A linear, sequential approach where each phase of the SDLC (requirements, design, implementation, testing, deployment, maintenance) is completed before the next one begins Examples: constructing a bridge, or large government software projects.
 while Agile Methodology:
 Description:
-An iterative and incremental approach that emphasizes flexibility, collaboration, and customer feedback.
+An iterative and incremental approach that emphasizes flexibility, collaboration, and customer feedback.Examples: developing a mobile app, or web based applications.
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
@@ -121,34 +121,6 @@ Ensuring software compliance with quality standards.
 Providing feedback on usability.
 In a software engineering team, each role plays a crucial part in the successful development and delivery of software. Here's a breakdown of the key roles and responsibilities of a Software Developer, a Quality Assurance (QA) Engineer, and a Project Manager:
 
-1. Software Developer:
-
-Roles:
-Software developers are responsible for designing, writing, and maintaining code.
-They translate software requirements into functional code.
-They work on various aspects of software development, including front-end, back-end, and database development.
-Responsibilities:
-Writing clean, efficient, and well-documented code.
-Debugging and troubleshooting software issues.
-Collaborating with other developers and team members.
-Participating in code reviews.
-Implementing new features and functionalities.
-Maintaining and updating existing software.
-Conducting unit tests.
-2. Quality Assurance (QA) Engineer:
-
-Roles:
-QA engineers are responsible for ensuring the quality and reliability of software.
-They design and execute test plans to identify defects and ensure that software meets requirements.
-They work to prevent defects and improve the overall quality of the software development process.
-Responsibilities:
-Developing and executing test plans and test cases.
-Identifying, documenting, and reporting software defects.
-Performing various types of testing, including functional, performance, and security testing.
-Collaborating with developers to resolve defects.
-Automating test processes.
-Ensuring software compliance with quality standards.
-Providing feedback on usability.
 3. Project Manager:
 
 Roles:
@@ -162,7 +134,6 @@ Allocating resources and managing team members.
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-Integrated Development Environments (IDEs) and Version Control Systems (VCS) are indispensable tools in modern software development. They significantly enhance productivity, collaboration, and overall software quality.
 
 Integrated Development Environments (IDEs):
 
